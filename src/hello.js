@@ -2,7 +2,10 @@ import React from 'react';
 
 function HelloWorld () {
   return (
-    <h1>Hello World!</h1>
+    <div>
+    <h1>Hellos World!</h1>
+    <p>this worlks doooood</p>
+    </div>
   );
 }
 
